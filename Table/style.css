@@ -1,0 +1,14 @@
+.table{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.member{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2.5%;
+    padding: 2.5%;
+    border: 1.5px solid black;
+}

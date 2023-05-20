@@ -1,0 +1,54 @@
+.Options{
+    display:flex;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    justify-content: space-between;
+
+}
+.form-div{
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 1.5rem;
+    width:60%;
+    margin-top:5%;
+}
+
+#form{
+    display:flex;
+    flex-direction: column;
+}
+
+.submit{
+    justify-content: center;
+    size: 3rem;
+}
+
+.signup-div{
+    display:flex;
+    justify-content: center;
+    font-size: 3rem;
+    margin-top: 3%;
+}
+
+.input{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-end;
+}
+
+.input{
+    font-size: 1rem;
+}
+
+.btn{
+    font-size: 1.5rem;
+}
+
+#incomplete{
+    align-self:center;
+    display:none;
+}
+
+.error{
+    display:none;
+}
